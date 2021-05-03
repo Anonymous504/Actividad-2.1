@@ -33,7 +33,7 @@ function arreglo() {
     console.log(suma);
     pro=suma/count;
     console.log(' El total de la suma del arreglo es: '+suma);
-    console.log(' El Promedio de los numeros del arreglo es: '+pro);
+    console.log(' El Promedio de los valores en el arreglo es: '+pro);
 
 }
 
